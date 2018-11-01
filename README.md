@@ -1,6 +1,8 @@
 Socket.io PHP Emitter Client 
 ===================
 
+Example project for sending message from PHP to Socket.io Client
+
 ***Usage***
 
 ```
