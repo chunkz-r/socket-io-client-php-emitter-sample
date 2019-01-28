@@ -1,0 +1,23 @@
+{
+  "name": "socket-io-client-php-emitter-sample",
+  "version": "1.0.0",
+  "description": "Socket.io PHP Emitter Client \r ===================",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunkz-r/socket-io-client-php-emitter-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunkz-r/socket-io-client-php-emitter-sample/issues"
+  },
+  "homepage": "https://github.com/chunkz-r/socket-io-client-php-emitter-sample#readme"
+}
